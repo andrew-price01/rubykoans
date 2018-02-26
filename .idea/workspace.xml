@@ -2,8 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="90af0ade-43f8-4050-b8a0-8ac21d980498" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change beforePath="$PROJECT_DIR$/.path_progress" afterPath="$PROJECT_DIR$/.path_progress" />
-      <change beforePath="$PROJECT_DIR$/about_strings.rb" afterPath="$PROJECT_DIR$/about_strings.rb" />
+      <change beforePath="$PROJECT_DIR$/about_symbols.rb" afterPath="$PROJECT_DIR$/about_symbols.rb" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -14,11 +15,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="about_strings.rb" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/about_strings.rb">
+      <file leaf-file-name="about_symbols.rb" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/about_symbols.rb">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="523">
-              <caret line="197" column="0" lean-forward="true" selection-start-line="197" selection-start-column="0" selection-end-line="197" selection-end-column="0" />
+            <state relative-caret-position="46">
+              <caret line="76" column="26" lean-forward="true" selection-start-line="76" selection-start-column="26" selection-end-line="76" selection-end-column="26" />
               <folding />
             </state>
           </provider>
@@ -39,6 +40,7 @@
         <option value="$PROJECT_DIR$/about_array_assignment.rb" />
         <option value="$PROJECT_DIR$/about_hashes.rb" />
         <option value="$PROJECT_DIR$/about_strings.rb" />
+        <option value="$PROJECT_DIR$/about_symbols.rb" />
       </list>
     </option>
   </component>
@@ -49,10 +51,10 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="38" />
+    <option name="x" value="24" />
     <option name="y" value="5" />
     <option name="width" value="1344" />
-    <option name="height" value="718" />
+    <option name="height" value="717" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -117,15 +119,15 @@
       <option name="presentableId" value="Default" />
       <updated>1519610569245</updated>
       <workItem from="1519610570488" duration="161000" />
-      <workItem from="1519610741401" duration="1469000" />
+      <workItem from="1519610741401" duration="3032000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1630000" />
+    <option name="totallyTimeSpent" value="3193000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="38" y="5" width="1344" height="718" extended-state="0" />
+    <frame x="24" y="5" width="1344" height="717" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
@@ -211,6 +213,30 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="523">
           <caret line="197" column="0" lean-forward="true" selection-start-line="197" selection-start-column="0" selection-end-line="197" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/neo.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-510">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/path_to_enlightenment.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/about_symbols.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="46">
+          <caret line="76" column="26" lean-forward="true" selection-start-line="76" selection-start-column="26" selection-end-line="76" selection-end-column="26" />
           <folding />
         </state>
       </provider>
