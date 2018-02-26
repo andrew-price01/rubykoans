@@ -15,7 +15,8 @@
 #
 def triangle(a, b, c)
 
-  return TriangleError if a <= 0 || b <= 0 || c <= 0
+  a,b,c = [a,b,c].sort
+  raise TriangleError if a <= 0 || a+b <= c
 
   case [a,b,c].uniq.size
     when 1 then :equilateral
