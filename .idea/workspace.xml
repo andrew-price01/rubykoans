@@ -4,7 +4,7 @@
     <list default="true" id="90af0ade-43f8-4050-b8a0-8ac21d980498" name="Default" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change beforePath="$PROJECT_DIR$/.path_progress" afterPath="$PROJECT_DIR$/.path_progress" />
-      <change beforePath="$PROJECT_DIR$/about_inheritance.rb" afterPath="$PROJECT_DIR$/about_inheritance.rb" />
+      <change beforePath="$PROJECT_DIR$/about_modules.rb" afterPath="$PROJECT_DIR$/about_modules.rb" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -15,11 +15,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="about_inheritance.rb" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/about_inheritance.rb">
+      <file leaf-file-name="about_modules.rb" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/about_modules.rb">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="17">
-              <caret line="58" column="21" lean-forward="true" selection-start-line="58" selection-start-column="21" selection-end-line="58" selection-end-column="21" />
+            <state relative-caret-position="283">
+              <caret line="53" column="22" lean-forward="false" selection-start-line="53" selection-start-column="22" selection-end-line="53" selection-end-column="22" />
               <folding />
             </state>
           </provider>
@@ -57,6 +57,7 @@
         <option value="$PROJECT_DIR$/about_open_classes.rb" />
         <option value="$PROJECT_DIR$/about_dice_project.rb" />
         <option value="$PROJECT_DIR$/about_inheritance.rb" />
+        <option value="$PROJECT_DIR$/about_modules.rb" />
       </list>
     </option>
   </component>
@@ -156,12 +157,12 @@
       <option name="presentableId" value="Default" />
       <updated>1519610569245</updated>
       <workItem from="1519610570488" duration="161000" />
-      <workItem from="1519610741401" duration="21121000" />
+      <workItem from="1519610741401" duration="21339000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="21282000" />
+    <option name="totallyTimeSpent" value="21500000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="29" y="32" width="1344" height="716" extended-state="0" />
@@ -444,6 +445,14 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="17">
           <caret line="58" column="21" lean-forward="true" selection-start-line="58" selection-start-column="21" selection-end-line="58" selection-end-column="21" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/about_modules.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="283">
+          <caret line="53" column="22" lean-forward="false" selection-start-line="53" selection-start-column="22" selection-end-line="53" selection-end-column="22" />
           <folding />
         </state>
       </provider>
