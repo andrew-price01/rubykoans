@@ -2,8 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="90af0ade-43f8-4050-b8a0-8ac21d980498" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change beforePath="$PROJECT_DIR$/.path_progress" afterPath="$PROJECT_DIR$/.path_progress" />
-      <change beforePath="$PROJECT_DIR$/about_dice_project.rb" afterPath="$PROJECT_DIR$/about_dice_project.rb" />
+      <change beforePath="$PROJECT_DIR$/about_inheritance.rb" afterPath="$PROJECT_DIR$/about_inheritance.rb" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -14,31 +15,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="about_dice_project.rb" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/about_dice_project.rb">
+      <file leaf-file-name="about_inheritance.rb" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/about_inheritance.rb">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="34">
-              <caret line="2" column="33" lean-forward="true" selection-start-line="2" selection-start-column="33" selection-end-line="2" selection-end-column="33" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="about_open_classes.rb" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/about_open_classes.rb">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="663">
-              <caret line="39" column="21" lean-forward="false" selection-start-line="39" selection-start-column="21" selection-end-line="39" selection-end-column="21" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="about_classes.rb" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/about_classes.rb">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1394">
-              <caret line="163" column="0" lean-forward="false" selection-start-line="163" selection-start-column="0" selection-end-line="163" selection-end-column="0" />
+            <state relative-caret-position="17">
+              <caret line="58" column="21" lean-forward="true" selection-start-line="58" selection-start-column="21" selection-end-line="58" selection-end-column="21" />
               <folding />
             </state>
           </provider>
@@ -75,6 +56,7 @@
         <option value="$PROJECT_DIR$/about_classes.rb" />
         <option value="$PROJECT_DIR$/about_open_classes.rb" />
         <option value="$PROJECT_DIR$/about_dice_project.rb" />
+        <option value="$PROJECT_DIR$/about_inheritance.rb" />
       </list>
     </option>
   </component>
@@ -174,12 +156,12 @@
       <option name="presentableId" value="Default" />
       <updated>1519610569245</updated>
       <workItem from="1519610570488" duration="161000" />
-      <workItem from="1519610741401" duration="20085000" />
+      <workItem from="1519610741401" duration="21121000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="20246000" />
+    <option name="totallyTimeSpent" value="21282000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="29" y="32" width="1344" height="716" extended-state="0" />
@@ -254,14 +236,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="523">
           <caret line="51" column="0" lean-forward="true" selection-start-line="51" selection-start-column="0" selection-end-line="51" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/about_hashes.rb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="523">
-          <caret line="116" column="0" lean-forward="true" selection-start-line="116" selection-start-column="0" selection-end-line="116" selection-end-column="0" />
           <folding />
         </state>
       </provider>
@@ -434,10 +408,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/about_classes.rb">
+    <entry file="file://$PROJECT_DIR$/about_dice_project.rb">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1394">
-          <caret line="163" column="0" lean-forward="false" selection-start-line="163" selection-start-column="0" selection-end-line="163" selection-end-column="0" />
+        <state relative-caret-position="34">
+          <caret line="2" column="33" lean-forward="true" selection-start-line="2" selection-start-column="33" selection-end-line="2" selection-end-column="33" />
           <folding />
         </state>
       </provider>
@@ -450,10 +424,26 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/about_dice_project.rb">
+    <entry file="file://$PROJECT_DIR$/about_classes.rb">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="33" lean-forward="true" selection-start-line="2" selection-start-column="33" selection-end-line="2" selection-end-column="33" />
+        <state relative-caret-position="1394">
+          <caret line="163" column="0" lean-forward="false" selection-start-line="163" selection-start-column="0" selection-end-line="163" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/about_hashes.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1237">
+          <caret line="116" column="0" lean-forward="true" selection-start-line="116" selection-start-column="0" selection-end-line="116" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/about_inheritance.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="58" column="21" lean-forward="true" selection-start-line="58" selection-start-column="21" selection-end-line="58" selection-end-column="21" />
           <folding />
         </state>
       </provider>
