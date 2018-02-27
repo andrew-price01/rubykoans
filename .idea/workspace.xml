@@ -2,9 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="90af0ade-43f8-4050-b8a0-8ac21d980498" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change beforePath="$PROJECT_DIR$/.path_progress" afterPath="$PROJECT_DIR$/.path_progress" />
-      <change beforePath="$PROJECT_DIR$/about_iteration.rb" afterPath="$PROJECT_DIR$/about_iteration.rb" />
+      <change beforePath="$PROJECT_DIR$/about_blocks.rb" afterPath="$PROJECT_DIR$/about_blocks.rb" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -15,11 +14,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="about_iteration.rb" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/about_iteration.rb">
+      <file leaf-file-name="about_blocks.rb" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/about_blocks.rb">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="17">
-              <caret line="79" column="64" lean-forward="true" selection-start-line="79" selection-start-column="64" selection-end-line="79" selection-end-column="64" />
+            <state relative-caret-position="436">
+              <caret line="92" column="19" lean-forward="false" selection-start-line="92" selection-start-column="19" selection-end-line="92" selection-end-column="19" />
               <folding />
             </state>
           </provider>
@@ -50,6 +49,7 @@
         <option value="$PROJECT_DIR$/about_exceptions.rb" />
         <option value="$PROJECT_DIR$/triangle.rb" />
         <option value="$PROJECT_DIR$/about_iteration.rb" />
+        <option value="$PROJECT_DIR$/about_blocks.rb" />
       </list>
     </option>
   </component>
@@ -61,9 +61,9 @@
   </component>
   <component name="ProjectFrameBounds">
     <option name="x" value="29" />
-    <option name="y" value="5" />
+    <option name="y" value="6" />
     <option name="width" value="1344" />
-    <option name="height" value="717" />
+    <option name="height" value="716" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -128,15 +128,15 @@
       <option name="presentableId" value="Default" />
       <updated>1519610569245</updated>
       <workItem from="1519610570488" duration="161000" />
-      <workItem from="1519610741401" duration="13290000" />
+      <workItem from="1519610741401" duration="13840000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="13451000" />
+    <option name="totallyTimeSpent" value="14001000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="29" y="5" width="1344" height="717" extended-state="0" />
+    <frame x="29" y="6" width="1344" height="716" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
@@ -358,6 +358,14 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="17">
           <caret line="79" column="64" lean-forward="true" selection-start-line="79" selection-start-column="64" selection-end-line="79" selection-end-column="64" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/about_blocks.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="436">
+          <caret line="92" column="19" lean-forward="false" selection-start-line="92" selection-start-column="19" selection-end-line="92" selection-end-column="19" />
           <folding />
         </state>
       </provider>
